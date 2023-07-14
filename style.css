@@ -354,6 +354,10 @@ footer{
     text-decoration: none;
     color: black;
 }
+
+.side-list a:hover{
+    color: rgb(172, 18, 18);
+}
 .side-list a i{
     padding: 9px;
 }
